@@ -130,7 +130,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #CORS_ORIGIN_ALLOW_ALL = True
 
 CORS_ALLOWED_ORIGINS = [
-    'https://registration-form-backend-2.onrender.com/',
+    'https://react-frontend-7qlb.vercel.app/',
 ]
 
 REST_FRAMEWORK = {
